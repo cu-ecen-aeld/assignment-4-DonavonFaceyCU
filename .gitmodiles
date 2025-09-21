@@ -1,0 +1,2 @@
+[submodule "buildroot"]
+	branch = 2024.02.x

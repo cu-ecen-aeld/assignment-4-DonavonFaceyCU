@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Includes the ldd example drivers updated for current kernel versions.
+	  Used for building and installing misc-modules and scull packages to image.
